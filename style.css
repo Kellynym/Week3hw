@@ -1,0 +1,58 @@
+body{
+  text-align: center;
+  color: black;
+  font-size: 18px;
+  padding-top: 50px;
+}
+
+h3{
+  text-decoration: underline;
+  padding: 30px 50px;
+}
+.boxesRow{
+  height: 300px;
+}
+
+.boxesRow div{
+  height: 100%;
+}
+
+.firstDiv{
+  background-color: red;
+  border:  solid black;
+}
+
+.firstDivnew {background-color: black;
+  border: solid red
+}
+
+
+.secondDiv{
+  background-color: blue;
+  border: 5px dashed yellow;
+  margin:0 10px;
+}
+
+.secondDivnew{ background-color: yellow;
+  border: dashed blue
+}
+
+.thirdDiv{
+  background-color: limegreen;
+  border: 5px solid purple;
+}
+
+.thirdDivnew {background-color: purple; border: green}
+
+
+.changeTitle{
+  color: blue;
+  text-decoration: underline;}
+
+
+.hideTitle{
+  color: blue;
+  text-decoration: underline;}
+
+
+.resetall {color: white}
